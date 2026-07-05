@@ -41,3 +41,4 @@ The written project report (PDF) is in the repository root:
 - `outputs/` — segmentation results
 - `reports/` — exported figures for write-ups (`generate_report_figures.py`)
 - `runs/` — Ultralytics training exports
+
